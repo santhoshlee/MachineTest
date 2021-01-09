@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Machine Test</string>
+    <string name="noproductfound">Items Not Found</string>
+    <string name="addcart">Add Cart</string>
+</resources>
